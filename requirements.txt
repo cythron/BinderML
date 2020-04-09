@@ -2,9 +2,6 @@ tensorflow
 tensorflow_datasets
 absl-py
 alabaster
-anaconda-navigator
-anaconda-project
-anaconda-client
 asn1crypto
 astor
 astroid
