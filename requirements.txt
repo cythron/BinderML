@@ -4,7 +4,6 @@ mccabe
 mistune
 mkl-fft
 mkl-random
-mkl-service
 nbconvert
 nbformat
 nltk
